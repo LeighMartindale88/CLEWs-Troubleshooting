@@ -3,7 +3,7 @@ A script designed to find basic inputting errors when creating a CLEWs model. De
 
 The script works as a general error/problem checker that can take into account the idiosyncrasies of the GAMS txt data file
 
-Its current functions are (usually for a group of specified parameters) is to flag:
+Its current functions are (usually for a group of specified parameters) to flag:
 
    - 'zeros' after a non-zero value
    - any zero in the parameters Input Activity Ratio and Open Activty Ratio 
